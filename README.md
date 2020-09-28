@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">I am a Computer Science student. I would like to gain my first Professional experience in the IT. I am looking for internship and professional development opportunities as a junior programmer.</h3>
+<h4 align="center">I am a Computer Science student. I would like to gain my first Professional experience in the IT. I am looking for internship and professional development opportunities as a junior programmer.</h4>
 
 - 🌱 I’m currently learning **still Spring ;) and Python**
-
-- 👨‍💻 All of my projects are available at [github.com/mat373](github.com/mat373)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
