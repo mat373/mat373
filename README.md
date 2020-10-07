@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>I am a Computer Science student. I would like to gain my first Professional experience in the IT. I am looking for internship and professional development opportunities as a junior programmer.<p>
 
-- 🌱 I’m currently learning.. - **still Spring ;)**
+- 🌱 I’m currently learning.. - **still Spring, mainly SPring Cloud and microservises ;)**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
