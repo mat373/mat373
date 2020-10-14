@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
-<h3 align="center">am a Computer Science student. I would like to gain my first Professional experience in the IT. I am looking for internship and professional development opportunities as a junior programmer.</h3>
+<h3 align="center">I'm a Computer Science student. I would like to gain my first Professional experience in the IT. I am looking for internship and professional development opportunities as a junior programmer.</h3>
 
 - 🌱 I’m currently learning **still Spring, mainly Spring Cloud and microservises ;)**
 
