@@ -5,7 +5,7 @@
 
 
 <a href="udemy.pl" target="_blank"> <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="40" height="40"/> 
-  <h1>Spring & Hibernate for Beginners (includes Spring Boot) </h1> <a href="https://www.udemy.com/course/spring-hibernate-tutorial/" targer="_blank">Link</a>
+  <h3>Spring & Hibernate for Beginners (includes Spring Boot) </h3> <a href="https://www.udemy.com/course/spring-hibernate-tutorial/" targer="_blank">Link</a>
 </a>
 
 <p align="left">
