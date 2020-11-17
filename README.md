@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **still Spring, mainly Spring Cloud and microservises ;)**
 
-https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg
 
-<a href="udemy.pl" target="_blank"> <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="40" height="40"/> </a>
+<a href="udemy.pl" target="_blank"> <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="40" height="40"/> 
+  <h1>Spring & Hibernate for Beginners (includes Spring Boot) </h1> <a href="https://www.udemy.com/course/spring-hibernate-tutorial/" targer="_blank">Link</a>
+</a>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
